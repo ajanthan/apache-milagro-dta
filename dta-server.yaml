@@ -1,0 +1,7 @@
+--- 
+server: 
+  address: "127.0.0.1"
+  port: 8800
+  secret: 
+    storage: plain.text.file
+  seed: "616a616e7468616e"        
